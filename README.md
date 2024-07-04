@@ -7,7 +7,7 @@
 Что-бы использовать первую комманду, напишите в чат "/warn <тут пользователь> <причина>" и все!
 Для второй команды в чат наберите "/warnings <тут пользователь>" и всё.
 
-# ------------------------------------ ОБНОВЛЕНИЕ ------------------------------------
+#                            ОБНОВЛЕНИЕ 
 - Добавлена команда "/changelang" которая меняет язык сообщений в боте.
 - Добавлена команда "/removewarn" которая удаляет предупреждение.
 
@@ -23,7 +23,7 @@ Just download my code, run it and 2 commands /warn and /warnings will be availab
 To use the first command, write in chat "/warn user reason" and that's it!
 For the second command in chat type "/warnings user" and that's it!
 
-# ------------------------------------ UPDATE ------------------------------------
+#                               UPDATE 
 - Added the command "/changelang" which changes the language of messages in the bot.
 - Added the command "/removewarn" which removes the warning.
 
