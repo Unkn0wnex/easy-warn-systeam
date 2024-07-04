@@ -13,5 +13,5 @@ You can easily use it in your projects
 
 # Usage
 Just download my code, run it and 2 commands /warn and /warnings will be available in discord.
-To use the first command, write in chat "/warn <user> <reason>" and that's it!
-For the second command in chat type "/warn <user>" and that's it!
+To use the first command, write in chat "/warn user reason" and that's it!
+For the second command in chat type "/warn user" and that's it!
